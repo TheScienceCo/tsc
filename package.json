@@ -2,21 +2,20 @@
   "name": "TailBliss",
   "version": "0.6.1",
   "description": "Hugo + Alpine.js + TailwindCSS",
-  "main": "index.js",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "alpinejs": "^3.14.3",
     "autoprefixer": "^10.4.20",
-    "concurrently": "^9.0.1",
     "postcss": "^8.4.47",
     "postcss-cli": "^11.0.0",
     "tailwindcss": "^3.4.14"
   },
   "scripts": {
-    "start": "concurrently npm:watch:*",
+    "start": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css && hugo --gc --minify",
     "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch",
     "watch:hugo": "hugo server",
-    "build": "hugo --minify",
+    "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css",
+    "build": "npm run build:css && hugo --gc --minify",
     "test": "hugo"
   },
   "repository": {
