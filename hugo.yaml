@@ -50,8 +50,8 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Custom Synthetic Peptide Synthesis with High Fidelity: Enabling Visionary Research using Novel ALPPS in tissue regeneration and anti-senescence"
-  description: "At TSC, we combine theoretical research with the real world. We perform in-house research using proprietary peptides, while also offering our cutting-edge technology to other groups. By using Automated Liquid Phase Peptide Synthesis (ALPPS), you too can be at the forefront of your research. From producing customized peptides to testing our own custom peptides in a gamut of modalities - from acute wound regeneration to anti-senenscence."
+  moto: "Custom Synthetic Peptide Synthesis with High Fidelity: Enabling Visionary Research Using Novel ALPPS in Tissue Regeneration and Antisenescence"
+  description: "At TSC, we combine theoretical research with the real world. We research our own peptides modified from endogenous ones, while also offering our cutting-edge Automated Liquid Phase Peptide Synthesis (ALPPS) service to other groups. By using ALPPS, you can modify any peptide with not only single or multiple residue replacement, but also incorporate non-standard residues - you can even create a unique peptide from scratch. All with extremely high fidelity and good yields."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
