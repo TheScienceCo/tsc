@@ -15,8 +15,8 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Visionary Research with Practical Results"
+  description: "At TSC, we combine theoretical research with the real world. We perform in-house research using proprietary peptides, while also offering our cutting-edge technology to other groups. By using Automated Liquid Phase Peptide Synthesis (ALPPS), you too can be at the forefront of your research. From producing customized peptides to testing our own custom peptides in a gamut of modalities - from acute wound regeneration to anti-senenscence."
   disable_theme_toggle: false
   disable_stay_uptodate: true
 
