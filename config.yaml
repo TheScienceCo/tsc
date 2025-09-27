@@ -90,10 +90,10 @@ menu:
       pre: dropdown
       name: Categories
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
+    # - identifier: dropdown
+    #   pre: complexdropdown
+    #   name: Dropdown
+    #   weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
