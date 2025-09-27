@@ -78,9 +78,9 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: services
+      name: Services
+      url: /services/
       weight: 10
     - identifier: about
       name: About
